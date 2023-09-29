@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GPX2TXT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GPX2TXT_jar</output-path>
+    <root id="archive" name="GPX2TXT.jar">
+      <element id="module-output" name="GPX2TXT" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/processing/core/2.2.1/core-2.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
